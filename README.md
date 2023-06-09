@@ -1,11 +1,5 @@
 # Temporal Data Parsing and Extraction: Understanding Timestamp Components
 
-# Objectives
-
-The learning objectives of this project are to:
-1. build a neural network for a community task 
-2. practice tuning model hyper-parameters
-
 # Understanding the sample code
 
 When you run:
